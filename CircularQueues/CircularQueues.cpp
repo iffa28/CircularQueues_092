@@ -24,7 +24,7 @@ public:
 
 		//cek apakah antrian kosong
 		if (FRONT == -1) {
-			FRONT = 0;
+			FRONT = 0; 
 			REAR = 0;
 		}
 	}
